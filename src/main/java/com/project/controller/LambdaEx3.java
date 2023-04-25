@@ -45,6 +45,12 @@ public class LambdaEx3 {
 		 * Outer.this.val 은 상수로 간주 되지 않으므로 값을 변경 해도 된다.
 		 */
 		
+		//출력 결과
+		//	           i : 100
+        //           val : 30
+        //	  t  his.val : 21
+      	//Outer.this.val : 11
+
 	}
 
 }
