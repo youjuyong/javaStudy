@@ -50,7 +50,7 @@ public class LambdaEx3 {
         //           val : 30
         //	  t  his.val : 21
       	//Outer.this.val : 11
-
+		//
 	}
 
 }
