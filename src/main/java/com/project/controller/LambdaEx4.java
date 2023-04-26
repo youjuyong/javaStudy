@@ -26,7 +26,7 @@ public class LambdaEx4 {
 		 *  타입, R은 Return을 의미
 		*/
 		
-		/*
+		/* 
 		 *  ※조건식의 표현에 사용되는 Predicate 
 		 *  
 		 *  Predicate는 Function의 변형으로 , 반환 타입이 boolean이라는 것만 다르다.
@@ -62,7 +62,7 @@ public class LambdaEx4 {
 		 *  작업 f를 수행
 		 * 
 		 *  Map 인터페이스에 있는 compute로 시작하는 메서드들은 맵의 value를 변환 하는 일을 하고 merge()는 Map을 병합 하는
-		 *  일을 한다.
+		 *  일을 한다..
 		 */
 		
 		ArrayList<Integer> list = new ArrayList();
